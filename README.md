@@ -23,16 +23,6 @@ Full documentation: [weavemind.ai/docs](https://weavemind.ai/docs).
 
 Join the community on [Discord](https://discord.com/invite/FGwNu6mDkU).
 
-## Star History
-
-<a href="https://www.star-history.com/?repos=WeaveMindAI%2Fweft&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=WeaveMindAI/weft&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=WeaveMindAI/weft&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=WeaveMindAI/weft&type=date&legend=top-left" />
- </picture>
-</a>
-
 ---
 
 ## Quick start
@@ -211,3 +201,14 @@ cargo test           # works without PostgreSQL
 [O'Saasy License](./LICENSE). MIT with a SaaS restriction: you can use, modify, and self-host freely, but you cannot offer it as a competing hosted service. See [osaasy.dev](https://osaasy.dev/).
 
 Copyright © 2026 Quentin Feuillade--Montixi.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=WeaveMindAI%2Fweft&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=WeaveMindAI/weft&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=WeaveMindAI/weft&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=WeaveMindAI/weft&type=date&legend=top-left" />
+ </picture>
+</a>
+
